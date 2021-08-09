@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tasdiq ilham</string>
+    <string name="nim_185410046">nim : 185410046</string>
+    <string name="nama_tasdiq_ilham">nama : tasdiq ilham</string>
+    <string name="email_tasdiqilham_gmail_com">email : tasdiqilham@gmail.com</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daftar">Daftar</string>
+    <string name="detail">detail</string>
+</resources>
